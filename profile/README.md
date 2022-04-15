@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/" >
+<img src="https://github.com/Encrypt-OS/.github/blob/main/encryptos.jpg?raw=true">
 
 <h3 align="center">
     Secure. Modern. Open.
