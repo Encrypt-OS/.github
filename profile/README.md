@@ -1,4 +1,6 @@
-<img src="https://github.com/Encrypt-OS/.github/blob/main/encryptos.jpg?raw=true">
+<kbd>
+<img align="center" style="border-radius: 10px;" src="https://github.com/Encrypt-OS/.github/blob/main/encryptos.jpg?raw=true">
+</kbd>
 
 <h3 align="center">
     Secure. Modern. Open.
