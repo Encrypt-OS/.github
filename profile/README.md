@@ -1,5 +1,5 @@
 <kbd>
-<img align="center" style="border-radius: 10px;" src="https://github.com/Encrypt-OS/.github/blob/main/encryptos.jpg?raw=true">
+<img align="center" style="border-radius: 10px;" src="https://github.com/Encrypt-OS/.github/blob/main/encryptos.png?raw=true">
 </kbd>
 
 <h3 align="center">
