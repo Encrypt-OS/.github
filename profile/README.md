@@ -1,15 +1,11 @@
-<kbd>
-<img align="center" style="border-radius: 10px;" src="https://github.com/Encrypt-OS/.github/blob/main/encryptos.png?raw=true">
-</kbd>
-
 <h3 align="center">
     Secure. Modern. Open.
 </h3>
 
 <p align="center">
-    Innovating projects one step at a time.
+    <b>This project has been cancelled.</b>
 </p>
 
 <p align="center">
-    <small>A <a href="https://snaildos.com">SnailDOS</a> Project</small>
+    <small>Why <a href="https://community.snaildos.com/t/encryptos-project-has-been-cancelled/113">was the project cancelled?</a></small>
 </p>
